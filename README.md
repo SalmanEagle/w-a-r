@@ -20,3 +20,8 @@ w-a-r (Women Advancing Resource): paying people, qualified by their Reddit karma
 * Phase 4:
 
 - Enable women to buy the (Ethereum) smart contract tokens for 1/3rd the regular price. Identification to be done via voice.
+
+- RESEARCH:
+
+* https://ethereum.org/en/developers/docs/programming-languages/python/
+* https://vyper.readthedocs.io/en/stable/
