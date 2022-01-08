@@ -16,4 +16,4 @@ w-a-r (Women Advancing Resource): paying people, qualified by their Reddit karma
 
 - Phase 4:
 
-* Enable women to buy the (Ethereum) smart contract tokens for 1/3rd the regular price.
+* Enable women to buy the (Ethereum) smart contract tokens for 1/3rd the regular price. Identification to be done via voice.
