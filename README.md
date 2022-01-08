@@ -14,6 +14,9 @@ w-a-r (Women Advancing Resource): paying people, qualified by their Reddit karma
 
 * Use Reddit API to integrate https://www.reddit.com/r/FlowerEconomics/ with the smart contract.
 
-- Phase 4:
+- Suppose a person posts a screenshot as evidence of their having applied for a job, and that post on Reddit gets 1 Upvote; the job applicant will get 1 token of our ETH smart contract.
+- Investors will buy these tokens, and each token's price is fixed at $10USD currently.
 
-* Enable women to buy the (Ethereum) smart contract tokens for 1/3rd the regular price. Identification to be done via voice.
+* Phase 4:
+
+- Enable women to buy the (Ethereum) smart contract tokens for 1/3rd the regular price. Identification to be done via voice.
