@@ -34,6 +34,6 @@ w-a-r (Women Advancing Resource): paying individuals, qualified by their Reddit 
 * https://www.youtube.com/watch?v=M576WGiDBdQ
 * https://www.youtube.com/watch?v=ipwxYa-F1uY
 * https://www.youtube.com/watch?v=4bzPE9ydGlo
+* https://www.udemy.com/course/master-ethereum-and-solidity-programming-with-real-world-apps/
 * https://www.coursera.org/
 * https://www.edx.org/
-* https://www.udemy.com/
