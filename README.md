@@ -25,3 +25,7 @@ w-a-r (Women Advancing Resource): paying people, qualified by their Reddit karma
 
 * https://ethereum.org/en/developers/docs/programming-languages/python/
 * https://vyper.readthedocs.io/en/stable/
+* https://betterprogramming.pub/how-to-write-smart-contracts-for-blockchain-using-python-part-2-99fc0cd43c37
+* https://www.youtube.com/watch?v=M576WGiDBdQ
+* https://www.youtube.com/watch?v=ipwxYa-F1uY
+* https://www.youtube.com/watch?v=4bzPE9ydGlo
