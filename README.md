@@ -21,6 +21,11 @@ w-a-r (Women Advancing Resource): paying individuals, qualified by their Reddit 
 
 - Enable women to buy the (Ethereum) smart contract tokens for 1/3rd the regular price. Identification to be done via voice.
 
+- Collaboration Notes:
+
+* First use Remix IDE for testing functions on Ethereum network.
+* Then copy your code to vscode as a .sol file.
+
 - RESEARCH:
 
 * https://ethereum.org/en/developers/docs/programming-languages/python/
