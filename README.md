@@ -14,8 +14,8 @@ w-a-r (Women Advancing Resource): paying individuals, qualified by their Reddit 
 
 * Use Reddit API to integrate the Karma/Upvotes in our communty (https://www.reddit.com/r/FlowerEconomics/) with the smart contract.
 
-- Even Zero Karma = 1 w-a-r token.
-- Even Zero Upvotes = 1 w-a-r token.
+- Even Zero Karma = 0.5 w-a-r token.
+- Even Zero Upvotes = 0.5 w-a-r token.
 
 * Suppose a person posts a screenshot as evidence of their having applied for a job, and that post on Reddit gets 1 Upvote; the job applicant will get 1 token of our ETH smart contract.
 * Investors will buy these tokens, and each token will be costed as [total amount invested / total number of tokens issued].
