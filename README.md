@@ -31,6 +31,7 @@ w-a-r (Women Advancing Resource): paying individuals, qualified by their Reddit 
 
 * RESEARCH:
 
+- https://www.youtube.com/watch?v=ipwxYa-F1uY (46:32 / Part 4 / Buy Token)
 - https://ethereum.org/en/developers/docs/programming-languages/python/
 - https://vyper.readthedocs.io/en/stable/
 - https://betterprogramming.pub/how-to-write-smart-contracts-for-blockchain-using-python-part-2-99fc0cd43c37
@@ -40,3 +41,4 @@ w-a-r (Women Advancing Resource): paying individuals, qualified by their Reddit 
 - https://www.udemy.com/course/master-ethereum-and-solidity-programming-with-real-world-apps/
 - https://www.coursera.org/
 - https://www.edx.org/
+-
