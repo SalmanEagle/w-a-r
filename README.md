@@ -31,6 +31,7 @@ w-a-r (Women Advancing Resource): paying individuals, qualified by their Reddit 
 
 * RESEARCH:
 
+- https://www.dappuniversity.com/articles/solidity-tutorial
 - https://www.youtube.com/watch?v=ipwxYa-F1uY (46:32 / Part 4 / Buy Token)
 - https://ethereum.org/en/developers/docs/programming-languages/python/
 - https://vyper.readthedocs.io/en/stable/
