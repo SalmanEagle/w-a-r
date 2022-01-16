@@ -1,6 +1,6 @@
 # w-a-r
 
-w-a-r (Women Advancing Resource): Paying individuals for job applications via an Ethereum token, based on Upvotes received.
+w-a-r (Women Advancing Resource): Paying individuals for any job applications via an Ethereum token, based on Upvotes received.
 
 - PHASE 1:
 
