@@ -1,6 +1,6 @@
 # w-a-r
 
-w-a-r (Women Advancing Resource): paying individuals, qualified by their Reddit karma, for job applications via an Ethereum token.
+w-a-r (Women Advancing Resource): Paying individuals for job applications via an Ethereum token, based on Upvotes received.
 
 - PHASE 1:
 
@@ -12,10 +12,10 @@ w-a-r (Women Advancing Resource): paying individuals, qualified by their Reddit 
 
 - PHASE 3:
 
-* Use Reddit API to integrate the Karma/Upvotes in our communty (https://www.reddit.com/r/FlowerEconomics/) with the smart contract.
+* Use Reddit API to integrate the Upvotes in our communty (https://www.reddit.com/r/FlowerEconomics/) with the smart contract.
 
-- Even Zero Karma = 0.5 w-a-r token.
 - Even Zero Upvotes = 0.5 w-a-r token.
+- I have decided not to add the hurdle of code judging posts by their Reddit KARMA, leaving this determination to the judgment of the community members individually.
 
 * Suppose a person posts a screenshot as evidence of their having applied for a job, and that post on Reddit gets 1 Upvote; the job applicant will get 1 token of our ETH smart contract.
 * Investors will buy these tokens, and each token will be costed as [total amount invested / total number of tokens issued].
@@ -31,6 +31,7 @@ w-a-r (Women Advancing Resource): paying individuals, qualified by their Reddit 
 
 * RESEARCH:
 
+- https://medium.com/coinmonks/make-http-request-using-your-solidity-smart-contract-4f7173bd391c#:~:text=It%20would%20contradict%20a%20fundamental,make%20API%20calls%20using%20solidity.
 - https://www.dappuniversity.com/articles/solidity-tutorial
 - https://www.youtube.com/watch?v=ipwxYa-F1uY (46:32 / Part 4 / Buy Token)
 - https://ethereum.org/en/developers/docs/programming-languages/python/
