@@ -14,11 +14,11 @@ w-a-r (Women Advancing Resource): Paying individuals for any job applications vi
 
 * Use Reddit API to integrate the Upvotes in our communty (https://www.reddit.com/r/FlowerEconomics/) with the smart contract.
 
-- Even Zero Upvotes = 0.01 w-a-r token (mitigate SPAM posts).
-- One Upvote = 0.1 w-a-r token (mitigate SELF-UPVOTING via multiple account registration).
-- I have decided not to add the hurdle of our code judging posts by the Job Applicant's Reddit KARMA, leaving this determination to the judgment of the community members individually.
+- Even Zero Upvotes = 0.01 w-a-r token.
+- One Upvote = 0.1 w-a-r token.
+- Members with 50 Reddit KARMA are automatically made Moderators.
 
-* Suppose a person posts a screenshot as evidence of their having applied for a job, and that post on Reddit gets 1 Upvote; the job applicant will get 1 token of our ETH smart contract.
+* Suppose a person posts a screenshot as evidence of their having applied for a job, and that post on Reddit gets 1 Upvote; the job applicant will get 0.1 token of our ETH smart contract.
 * Investors will buy these tokens, and each token will be costed as [total amount invested / total number of tokens issued].
 
 - PHASE 4:
