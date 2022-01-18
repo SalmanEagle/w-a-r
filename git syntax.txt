@@ -52,3 +52,6 @@ index.html |    1 +
 1 file changed, 1 insertion(+)
 
 NOTE1: The creator of the Git REPOSITORY will have to Accept (PULL) your Merge Request at GitHub.com.
+
+- Run the following command to amend (change) the message of the latest commit: git commit --amend -m 
+"New commit message." What the command does is overwriting the most recent commit with the new one.
