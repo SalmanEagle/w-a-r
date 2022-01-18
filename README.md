@@ -32,6 +32,7 @@ w-a-r (Women Advancing Resource): Paying individuals for any job applications vi
 
 * RESEARCH:
 
+- https://developer.algorand.org/tutorials/create-and-test-smart-contracts-using-python/
 - https://medium.com/coinmonks/make-http-request-using-your-solidity-smart-contract-4f7173bd391c#:~:text=It%20would%20contradict%20a%20fundamental,make%20API%20calls%20using%20solidity.
 - https://www.dappuniversity.com/articles/solidity-tutorial
 - https://www.youtube.com/watch?v=ipwxYa-F1uY (46:32 / Part 4 / Buy Token)
