@@ -23,7 +23,7 @@ w-a-r (Women Advancing Resource): Paying individuals for any job applications vi
 
 - PHASE 4:
 
-* Enable women to buy the (Ethereum) smart contract tokens for 1/3rd the regular price. Identification to be done via voice.
+* Members of FE Reddit community with at least [50 Reddit Karma AND Female Avatars] are considered MODERATORS and compensated at 3 Ethereum (ETH) TOKENS of w-a-r per month.
 
 * COLLABORATION NOTES:
 
@@ -33,10 +33,7 @@ w-a-r (Women Advancing Resource): Paying individuals for any job applications vi
 * RESEARCH:
 
 - https://www.youtube.com/watch?v=p5W67zTQFRM
-<<<<<<< HEAD
 - https://1729.com/learn-solidity-with-cryptozombies
-=======
->>>>>>> origin/main
 - https://www.youtube.com/watch?v=oqJrkrWaBdI
 - https://codeburst.io/deploy-a-smart-contract-using-python-how-to-b62de0124b
 - https://developer.algorand.org/tutorials/create-and-test-smart-contracts-using-python/
