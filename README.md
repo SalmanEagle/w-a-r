@@ -29,6 +29,7 @@ w-a-r (Women Advancing Resource): Paying individuals for any (gig economy or oth
 
 - RESEARCH:
 
+* http://blog.adnansiddiqi.me/develop-and-deploy-your-first-ethereum-smart-contract-with-python/
 * https://www.youtube.com/watch?v=p5W67zTQFRM
 * https://1729.com/learn-solidity-with-cryptozombies
 * https://www.youtube.com/watch?v=oqJrkrWaBdI
