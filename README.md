@@ -1,6 +1,6 @@
 # w-a-r
 
-w-a-r (Women Advancing Resource): Paying individuals for any (gig economy or otherwise) job applications via an Ethereum token, based on Upvotes received at Reddit community.
+w-a-r (Women Advancing Resource): Paying individuals for any (gig economy or otherwise) job application via an Ethereum token, based on Upvotes received at Reddit community.
 
 - PHASE 1:
 
