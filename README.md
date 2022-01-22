@@ -2,33 +2,11 @@
 
 w-a-r (Women Advancing Resource): Paying individuals for any (gig economy or otherwise) job application via an Ethereum token, based on Upvotes received at Reddit community.
 
-- PHASE 1:
-
-* Set up community on Reddit for Job Applicants to submit evidence (e.g. screenshots) of job applications by them. Note, however, that a community member can submit any picture - our program will not check what exactly is submitted. Moderators' task is only to ensure that the proof that is submitted, is indeed a Job Application.
-* Posts by Gig Economy Workers, e.g. YouTube Videos or Open-Source Code contributed, qualify as "Job Applications" too.
-
-- PHASE 2:
-
-* Write a smart contract in Solidity that enables Job Applicants to be paid for their job applications.
-
-- PHASE 3:
-
-* Use Reddit API to integrate the Upvotes in our communty (https://www.reddit.com/r/FlowerEconomics/) with the smart contract.
-* Even Zero OR Negative Upvotes = 0.01 w-a-r ETH token.
-* One Upvote = 0.1 w-a-r ETH token.
-* Investors are enabled to buy these Tokens, and each token will be costed as [total amount invested / total number of tokens issued].
-
-- PHASE 4:
-
-* [Members of FE Reddit community, verified as Women] OR [Members of FE Reddit community with at least 50 Reddit Karma AND Female Avatars] are considered MODERATORS and compensated at 3 Ethereum (ETH) TOKENS of w-a-r per month.
-
-- COLLABORATION NOTES:
-
-* First use Remix IDE for testing functions on Ethereum network.
-* Then copy your code to vscode as a .sol file.
+[embed]w-a-r tokens code flow.pdf[/embed]
 
 - RESEARCH:
 
+* https://www.youtube.com/watch?v=FdjVoOf9HN4
 * https://web3py.readthedocs.io/en/stable/examples.html
 * http://blog.adnansiddiqi.me/develop-and-deploy-your-first-ethereum-smart-contract-with-python/
 * https://www.youtube.com/watch?v=p5W67zTQFRM
