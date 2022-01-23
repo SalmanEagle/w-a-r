@@ -1,7 +1,4 @@
 # w-a-r
-
-w-a-r (Women Advancing Resource): Paying individuals for any (gig economy or otherwise) job application via an Ethereum token, based on Upvotes received at Reddit community.
-
 <img align="center" width="215" height="279" src="https://github.com/SalmanEagle/w-a-r/blob/main/1.png" alt="w-a-r tokens code flow 1">
 <img align="center" width="215" height="279" src="https://github.com/SalmanEagle/w-a-r/blob/main/2.png" alt="w-a-r tokens code flow 2">
 <img align="center" width="215" height="279" src="https://github.com/SalmanEagle/w-a-r/blob/main/3.png" alt="w-a-r tokens code flow 3">
