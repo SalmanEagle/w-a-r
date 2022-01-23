@@ -1,11 +1,11 @@
 # w-a-r
 
 <img align="center" width="215" height="279" src="https://github.com/SalmanEagle/w-a-r/blob/main/1.png" alt="w-a-r tokens code flow 1">
-</br></br>
+</br></br></br></br>
 <img align="center" width="215" height="279" src="https://github.com/SalmanEagle/w-a-r/blob/main/2.png" alt="w-a-r tokens code flow 2">
-</br></br>
+</br></br></br></br>
 <img align="center" width="215" height="279" src="https://github.com/SalmanEagle/w-a-r/blob/main/3.png" alt="w-a-r tokens code flow 3">
-</br></br>
+</br></br></br></br>
 <img align="center" width="215" height="279" src="https://github.com/SalmanEagle/w-a-r/blob/main/4.png" alt="w-a-r tokens code flow 4">
 
 - RESEARCH:
