@@ -10,6 +10,7 @@ D <img align="center" width="215" height="279" src="https://github.com/SalmanEag
 
 - RESEARCH:
 
+* https://intellipaat.com/blog/tutorial/python-tutorial/python-while-loops/
 * https://www.youtube.com/watch?v=FdjVoOf9HN4
 * https://web3py.readthedocs.io/en/stable/examples.html
 * http://blog.adnansiddiqi.me/develop-and-deploy-your-first-ethereum-smart-contract-with-python/
