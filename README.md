@@ -10,6 +10,8 @@
 
 - RESEARCH:
 
+* https://www.youtube.com/watch?v=DFpEWATDego
+* https://www.youtube.com/watch?v=KHm0uUPqmVE
 * https://www.reddit.com/r/redditdev/comments/o562mm/trying_to_access_developed_applications_page/
 * https://www.reddit.com/r/redditdev/comments/5t0htf/keyerror_on_access_token_for_set_access/
 * https://intellipaat.com/blog/tutorial/python-tutorial/python-while-loops/
