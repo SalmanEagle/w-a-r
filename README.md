@@ -1,12 +1,12 @@
 # w-a-r
 
-A <img align="center" width="215" height="279" src="https://github.com/SalmanEagle/w-a-r/blob/main/1.png" alt="w-a-r tokens code flow 1">
+<img align="center" width="215" height="279" src="https://github.com/SalmanEagle/w-a-r/blob/main/1.png" alt="w-a-r tokens code flow 1">
 </br></br></br></br>
-B <img align="center" width="215" height="279" src="https://github.com/SalmanEagle/w-a-r/blob/main/2.png" alt="w-a-r tokens code flow 2">
+<img align="center" width="215" height="279" src="https://github.com/SalmanEagle/w-a-r/blob/main/2.png" alt="w-a-r tokens code flow 2">
 </br></br></br></br>
-C <img align="center" width="215" height="279" src="https://github.com/SalmanEagle/w-a-r/blob/main/3.png" alt="w-a-r tokens code flow 3">
+<img align="center" width="215" height="279" src="https://github.com/SalmanEagle/w-a-r/blob/main/3.png" alt="w-a-r tokens code flow 3">
 </br></br></br></br>
-D <img align="center" width="215" height="279" src="https://github.com/SalmanEagle/w-a-r/blob/main/4.png" alt="w-a-r tokens code flow 4">
+<img align="center" width="215" height="279" src="https://github.com/SalmanEagle/w-a-r/blob/main/4.png" alt="w-a-r tokens code flow 4">
 
 - RESEARCH:
 
