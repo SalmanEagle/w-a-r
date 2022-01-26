@@ -11,9 +11,11 @@
 - RESEARCH:
 
 * Advantages of DAO vs Forum, Reddit, or Facebook: Direct Voting (Tokens = Votes),Transparency, Efficiency, No Middlemen.
-  ++ Other ways to implement, besides DAO: \*\*\* Voting on a website, or a forum, or a Reddit, or a Facebook.
-  ++ Physical Cards with Points, in place of Tokens.
-  ++ Corporation with Shares.
+
+- Other ways to implement, besides DAO: Voting on a website, or a forum, or a Reddit, or a Facebook.
+- Physical Cards with Points, in place of Tokens.
+- Corporation with Shares.
+
 * https://www.youtube.com/watch?v=DFpEWATDego
 * https://www.youtube.com/watch?v=KHm0uUPqmVE
 * https://www.reddit.com/r/redditdev/comments/o562mm/trying_to_access_developed_applications_page/
