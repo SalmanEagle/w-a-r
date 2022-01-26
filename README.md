@@ -10,15 +10,14 @@
 
 - RESEARCH:
 
-> https://jisajournal.springeropen.com/articles/10.1186/s13174-021-00139-6
-> Aragon is open-source.
-> Advantages of DAO vs forum, Reddit, or Facebook: Direct Voting (Tokens = Votes),Transparency, Efficiency, No Middlemen.
+- https://jisajournal.springeropen.com/articles/10.1186/s13174-021-00139-6
+- Aragon is open-source.
+- Advantages of DAO vs forum, Reddit, or Facebook: Direct Voting (Tokens = Votes),Transparency, Efficiency, No Middlemen.
+- Other ways to implement, besides DAO:
 
-> Other ways to implement, besides DAO:
->
-> > Voting on a website, or a forum, or a Reddit, or a Facebook.
-> > Physical Cards with Points, in place of Tokens.
-> > Corporation with Shares.
+1. Voting on a website, or a forum, or a Reddit, or a Facebook.
+2. Physical Cards with Points, in place of Tokens.
+3. Corporation with Shares.
 
 - https://www.youtube.com/watch?v=DFpEWATDego
 - https://www.youtube.com/watch?v=KHm0uUPqmVE
