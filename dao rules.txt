@@ -1,0 +1,9 @@
+Any transaction created in this DAO, "women_advancing_resource", must have first been proposed for an Aragon Voice vote on https://voice.aragon.org/; particularly in so far as providing IMAGE evidence for JOB ATTEMPTS via forum. 
+
+The number of Votes received by a JOB ATTEMPT will be converted in to "WAR Tokens" for the JOB PROSPECTOR (1 Vote = 1 WAR Token).
+
+JOB COMPLETED is compensated in the same way as a JOB ATTEMPT, by the number of Votes received.
+
+Of the initially minted 12 Trillion WAR Tokens: 4 Trillion will be available to JOB PROSPECTORS for JOB ATTEMPTS/COMPLETIONS via Votes, 4 Trillion will be available to INVESTORS (who may want to support Job Attempts/Completions), and the remaining 4 Trillion will be issued to any person who proves their identity as a Woman (1,000 WAR Tokens initially, per Woman).
+
+The supply of WAR Tokens will be inflated 2% (of quantity of WAR Tokens minted so far) every January 1, starting 2023AD.
