@@ -1,4 +1,6 @@
 ''' 
+- PLAN:
++ Schedule a CodeMentor (suggested: X).
 - Writing code to RATE Job Attempts (or Completions) at FlowerEconomics.com forum (Python or PHP), via virtual WAR Tokens [vWARs] ~ backed by 
 actual WAR Tokens [aWARs] on the ETH blockchain.
 - Visitors should be able to post (articles), and have them voted on.
